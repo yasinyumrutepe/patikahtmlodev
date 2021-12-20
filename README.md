@@ -1,3 +1,3 @@
-# Patika HTML Eğitimi Birinci Ödev
+# Patika HTML Eğitimi İkinci Ödev
 
-Bu ödev de html başlık etiketleri,paragraf etiketini öğrendik.
+Bu ödev de html block inline kavramlarını img etiketini a etiketini ul ol li etiketlerini öğrendik
